@@ -31,3 +31,14 @@ div {
 .hoverable:hover {
     opacity: 25%;
 }
+
+:root{
+    --ff-body:
+}
+article{
+    display: grid;
+}
+
+article *:not(img){
+    padding
+}
