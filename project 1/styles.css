@@ -102,7 +102,7 @@ article > *:not(img){
     max-width: 40ch;
 } */
 .article-body {
-    columns: 2 30ch;
+    columns: 3 20ch;
     column-rule: 2px solid #cbc0d3;
     gap: 4rem;
     max-width: 100ch;
@@ -120,7 +120,7 @@ article > *:not(img){
     }
     article > img{
         grid-row: 1 / 4;
-        height: 
+        height: 100%;
     }
     article > *:not(img){
         grid-column: 2 / -1;
